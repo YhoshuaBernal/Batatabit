@@ -1,0 +1,25 @@
+.header_title--container h1 {
+  font-size: 2.8rem;
+}
+.header_title--container p {
+  font-size: 1.6rem;
+}
+.main-container__tables-container {
+  display: flex;
+  width: 900px;
+  margin: 0 auto;
+  flex-direction: row;
+}
+.product-cards__container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  width: 900px;
+  margin: 0 auto;
+}
+.product-detail__card {
+  margin-bottom: 30px;
+}
+.plans-container__slider {
+  place-content: center;
+}
